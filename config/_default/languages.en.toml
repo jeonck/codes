@@ -1,0 +1,21 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Codes"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "A small collection of code snippets and hard-won lessons from building with Claude Code."
+  copyright = "© {year} jeonck. Distributed under [MIT](https://opensource.org/licenses/MIT)."
+
+[params.author]
+  name = "jeonck"
+  headline = "Notes from building things with Claude Code"
+  bio = "Running a handful of Hugo/Docusaurus sites on GitHub Pages, and writing down the problems and fixes along the way."
+  links = [
+    { github = "https://github.com/jeonck" },
+  ]
